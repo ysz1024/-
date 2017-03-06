@@ -2,6 +2,8 @@
 body{
 	display: flex;
 	justify-content: center;
+	
+
 }
 
 .box{
@@ -12,6 +14,10 @@ body{
 	width:960px;
 	height: 30rem;
 	align-items: center;
+    position:absolute;  
+    left:50%;  
+    top:50%;  
+    margin:-15rem 0 0 -480px 
 	
 }
 h1{
